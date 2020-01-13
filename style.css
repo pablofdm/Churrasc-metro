@@ -1,0 +1,26 @@
+.container{
+    background-color: black;
+    color: white;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;  
+}
+
+
+input{
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+
+button{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: aqua;
+    border-style: solid;
+    border-radius: 10px;
+}
